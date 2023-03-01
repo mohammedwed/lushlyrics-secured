@@ -31,4 +31,4 @@ Once `pip` has finished downloading the dependencies:
 (env)$ cd spotify-clone-django
 (env)$ python manage.py runserver
 ```
-And navigate to `http://127.0.0.1:8000/demo`.
+And navigate to `http://127.0.0.1:8000/`.
